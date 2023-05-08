@@ -1,0 +1,2 @@
+R_LIBS_USER=C:/Users/${USERNAME}/R/library/%V
+GITHAPI_CACHE=~/.githapi.oauth
